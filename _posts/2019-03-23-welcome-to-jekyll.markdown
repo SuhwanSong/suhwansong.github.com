@@ -3,7 +3,6 @@ layout: post
 title:  "Suhwan Song"
 date:   2020-11-02 21:03:36 +0530
 ---
-
 ## Short Bio
 I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. 
 My advisor is @lifeasageek & Research Interest is Software Security.
@@ -14,7 +13,6 @@ focus is in software testing, e.g., designing and implementing fuzzing systems t
 #### Seoul National University, Seoul, South Korea (Mar 2019 ~ Current)
 M.S/Ph.D. Course in Electrical and Computer Engineering
 Advisor: Prof. Byoungyoung Lee
-
 #### Pusan National University, Pusan, South Korea (Mar 2015 ~ Feb 2019)
 B.S. Electrical and Computer Engineering
 ## Publication
