@@ -1,9 +1,10 @@
-title: Suhwan Song @SNU
-author: Suhwan Song
-email: sshkeb96@snu.ac.kr
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. 
-  My advisor is @lifeasageek & Research Interest is Software Security
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,13 +12,13 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Suhwan Song
-  tagline: Ph.D. Candidate
+  name: Adam Denisov
+  tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: #"assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     #- home
@@ -25,6 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
+    twitter: samarsault
+    github:  samarsault
+    linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
@@ -49,7 +53,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: minima
+theme: plainwhite
 
 plugins:
+  - jekyll-seo-tag
 #  - jekyll-feed
