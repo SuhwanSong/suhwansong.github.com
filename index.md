@@ -13,6 +13,7 @@ date:   2020-11-02 21:03:36 +0530
 ## Short Bio
 I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. 
 My advisor is @lifeasageek & Research Interest is Software Security.
+
 ## Research Interests
 Interested in all software engineering and computer security in general. In particular, my research
 focus is in software testing, e.g., designing and implementing fuzzing systems to find software bugs.
