@@ -19,10 +19,16 @@ Interested in all software engineering and computer security in general. In part
 focus is in software testing, e.g., designing and implementing fuzzing systems to find software bugs.
 
 ## Education
-### Seoul National University, Seoul, South Korea (Mar 2019 ~ Current)
+Seoul National University, Seoul, South Korea (Mar 2019 ~ Current)
+
 M.S/Ph.D. Course in Electrical and Computer Engineering
+
 Advisor: Prof. Byoungyoung Lee
-### Pusan National University, Pusan, South Korea (Mar 2015 ~ Feb 2019)
+
+#### 
+
+Pusan National University, Pusan, South Korea (Mar 2015 ~ Feb 2019)
+
 B.S. Electrical and Computer Engineering
 
 ## Publication
@@ -66,11 +72,11 @@ Seoul National University, 2020
 - Chrome Bug #1102037: CSS mix-blend-mode makes elements disappear.
 - Chrome Bug #1102235: CSS webkit-mask-box-image makes html elements disappear.
 - Chrome Bug #1103162: Text in HTML tt tag is not shown.
-- Chrome Bug #1107350: The location of <dialog> is drawn differently.
+- Chrome Bug #1107350: The location of `<dialog>` is drawn differently.
 - Chrome Bug #1119312: input[type=file] is rendered differently.
 - Chrome Bug #1121082: CSS "text-decoration-line: overline" is not working.
 - Chrome Bug #1121956: CSS "webkit-backface-visibility: hidden" is not working.
-- Chrome Bug #1122021: The background color is painted outside of <span>.
+- Chrome Bug #1122021: The background color is painted outside of `<span>`.
 - Chrome Bug #1123445: CSS "-webkit-box-reflect" is not working properly under multicol.
 
 ## Reported Security Vulnerabilities
@@ -78,8 +84,9 @@ Seoul National University, 2020
 - 49 Vulnerabilities in Ghostscript
 - 42 Vulnerabilities in ImageMagick
 - 14 Vulnerabilities in Xfig
+
 ## Honors & Awards
-Undergraduate study scholarship, 2015-2019
-Pusan National University Visiting Program (The University of Western Australia), Jan 2017
+- Undergraduate study scholarship, 2015-2019
+- Pusan National University Visiting Program (The University of Western Australia), Jan 2017
 
 
