@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Suhwan Song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. My advisor is @lifeasageek & Research Interest is Software Security"
+  bio              : "I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. \nMy advisor is @lifeasageek & Research Interest is Software Security"
   location         : "Seoul, South Korea"
   email            : "sshkeb96@snu.ac.kr"
 
