@@ -2,6 +2,7 @@
 layout: post
 title:  "Suhwan Song"
 date:   2020-11-02 21:03:36 +0530
+---
 
 ## Short Bio
 I am a Ph.D student in Department of Electrical & Computer Engineering at SNU. 
@@ -11,11 +12,11 @@ Interested in all software engineering and computer security in general. In part
 focus is in software testing, e.g., designing and implementing fuzzing systems to find software bugs.
 ## Education
 #### Seoul National University, Seoul, South Korea (Mar 2019 ~ Current)
-- M.S/Ph.D. Course in Electrical and Computer Engineering
-- Advisor: Prof. Byoungyoung Lee
+M.S/Ph.D. Course in Electrical and Computer Engineering
+Advisor: Prof. Byoungyoung Lee
 
 #### Pusan National University, Pusan, South Korea (Mar 2015 ~ Feb 2019)
-- B.S. Electrical and Computer Engineering
+B.S. Electrical and Computer Engineering
 ## Publication
 [1] CrFuzz: Fuzzing Multi-purpose Programs through Input Validation.
 Suhwan Song, Chengyu Song, Yeongjin Jang, and Byoungyoung Lee .
@@ -25,15 +26,18 @@ the Foundations of Software Engineering (FSE), Sacramento, CA, November, 2020
 [1] Deep Learning-based Fuzzing.
 This project leverages deep learning technique to solve the hard-constraints in programs.
 Seoul National University and Agency of Defense Development, 2019
+#####
 [2] Multi-purpose Program Fuzzing through Input Validation.
 This project leverages clustering analysis to predict input validity for multi-purpose program
 fuzzing efficiency. It found 277 new vulnerabilities from various software programs.
 Seoul National University, 2019
+#####
 [3] Differential Testing to Find CPU Bugs.
 This project develops a register-coverage guided fuzzing technique to automatically discover
 unknown bugs in CPU RTLs. It identified 12 new bugs from these CPU RTLs, all of which were
 confirmed by the respective development communities and vendors.
 Seoul National University, 2020
+#####
 [4] Web Browser Rendering Bug Finding.
 This project finds and analyzes the rendering bugs in web browsers using differential testing.
 It found 16 rendering bugs from Chrome browser.
@@ -66,8 +70,6 @@ Seoul National University, 2020
 ## Honors & Awards
     Undergraduate study scholarship, 2015-2019
     Pusan National University Visiting Program (The University of Western Australia), Jan 2017
-
----
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
