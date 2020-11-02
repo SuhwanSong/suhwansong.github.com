@@ -57,6 +57,7 @@ Seoul National University, 2020
     Chrome Bug #1121956: CSS "webkit-backface-visibility: hidden" is not working.
     Chrome Bug #1122021: The background color is painted outside of <span>.
     Chrome Bug #1123445: CSS "-webkit-box-reflect" is not working properly under multicol.
+
 ## Reported Security Vulnerabilities
     - 153 Vulnerabilities in FFmpeg
     - 49 Vulnerabilities in Ghostscript
