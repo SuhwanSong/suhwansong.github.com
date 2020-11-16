@@ -19,17 +19,16 @@ Interested in all software engineering and computer security in general. In part
 focus is in software testing, e.g., designing and implementing fuzzing systems to find software bugs.
 
 ## Education
-Seoul National University, Seoul, South Korea (Mar 2019 ~ Current)
+### Seoul National University, Seoul, South Korea (Mar 2019 ~ Current)
 
-M.S/Ph.D. Course in Electrical and Computer Engineering
+ - M.S/Ph.D. Course in Electrical and Computer Engineering
 
-Advisor: Prof. Byoungyoung Lee
+ - Advisor: Prof. Byoungyoung Lee
 
-#### 
 
-Pusan National University, Pusan, South Korea (Mar 2015 ~ Feb 2019)
+### Pusan National University, Pusan, South Korea (Mar 2015 ~ Feb 2019)
 
-B.S. Electrical and Computer Engineering
+ - B.S. Electrical and Computer Engineering
 
 ## Publication
 [1] CrFuzz: Fuzzing Multi-purpose Programs through Input Validation.
